@@ -53,7 +53,7 @@ StealthMax V2 adds smart visual signaling, making it easy to monitor your filter
 StealthMax V2 dramatically improves user accessibility and versatility:
 
 - **Multiple Bowden tube access points** on every side for clean and easy routing.
-- **Up to 6 simultaneous Bowden tubes** supported for complex tool-changer setups.
+- **Up to 6 simultaneous Bowden tubes** supported for complex tool-changer setups. Bowden routing is much improved too, reducing unneccessary filament drag.
 - Integrated routing for your **PUG umbilical cable**.
 - Convenient additional **CPAP intake ports** at the bottom, allowing flexible air routing throughout your machine.
 
