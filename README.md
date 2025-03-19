@@ -64,10 +64,11 @@ StealthMax V2 dramatically improves user accessibility and versatility:
 Let's face it—activated carbon filtration becomes less effective as temperature rises, yet we require high chamber temperatures for optimal printing with most advanced filaments. StealthMax V2 is designed with this challenge in mind, supporting an optional **Carbon Cooler module**:
 
 - **Peltier cooling** chills intake air, increasing carbon adsorption efficiency.
-- **Waste heat is recirculated** back into the chamber, maintaining a hot environment where needed.
+- The hot side of the peltier then **reheats the filtered air**, and is recirculated back into the chamber, maintaining a hot environment where needed.
 - Cooler carbon means more effective filtration, capturing VOCs longer, even at chamber temperatures up to 70°C.
+- Due to peltier inefficiencies, a bit more waste heat will be generated, so expect a slight bump in chamber temps too - but if your chamber gets too hot we have a servo exhaust for that!
 
-**Cooler carbon, hotter chamber? Check.**
+**Cool carbon, hot chamber? Check.**
 
 ---
 
