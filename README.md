@@ -1,5 +1,5 @@
-# 🌪️ StealthMax V2 – The New Filtration Beast!
-
+# StealthMax V2 – The New Filtration Beast!
+![StealthMax V2](./Printable_Files/Stealthmax_V2.png)
 ## Nevermore StealthMax was already the pinnacle of 3D printing filtration. How could we possibly improve it? Here's how:
 
 ---
@@ -21,7 +21,7 @@ Moreover, the fan is **5 mm slimmer**, making room for even more HEPA surface ar
 With our upgraded fan, we can now use a vastly superior, industrial-quality HEPA filter without sacrificing airflow. Gone are the days of cheap, unspecified robovac filters!
 
 Our new HEPA filter:
-- Is **99.995% efficient** at capturing particulates (H14 standard).
+- Is **99.995% efficient** at capturing particulates (**H14 standard**).
 - Outperforms typical cheap robovac filters by capturing up to **2000 times more particulates** per filtration pass.
 - Excels specifically at capturing ultra-fine particles (UFPs: PM0.01 – PM0.1) emitted during FDM 3D printing, which thinner, cheaper filters struggle with.
 
@@ -111,3 +111,4 @@ We're dedicated to continuously improving StealthMax V2. Your feedback, testing,
 ---
 
 **Happy printing, breathe easy, and stay stealthy!** 🚀🌬️
+![StealthMax V2 Mount](./Printable_Files/Stealthmax_V2_Mount.png)
