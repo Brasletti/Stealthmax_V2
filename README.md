@@ -1,4 +1,4 @@
-# StealthMax V2 – The New Filtration Beast!
+# StealthMax V2 [RC1]– The New Filtration Beast!
 ![StealthMax V2](./Printable_Files/Stealthmax_V2.png)
 ## Nevermore StealthMax was already the pinnacle of 3D printing filtration. How could we possibly improve it? Here's how:
 
