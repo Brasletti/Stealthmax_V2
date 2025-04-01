@@ -44,11 +44,12 @@ While StealthMax V1 had an adjustable exhaust vent for controlling chamber tempe
 
 ## 💡 **Intelligent Signaling**
 
-StealthMax V2 adds smart visual signaling, making it easy to monitor your filter status at a glance:
+StealthMax V2 adds smart visual signaling (pending future software update), making it easy to monitor your filter status at a glance:
 
 - **Neopixel LEDs** indicating filter function status and carbon replacement intervals.
 - LEDs can be installed at the Bowden caps or the main hinge.
 - Optional support for a sleek **1.28" LED display** or **KNOMI 2** mounted at the main hinge for the ultimate monitoring and customization experience (currently limited software support).
+
 
 ---
 
