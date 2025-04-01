@@ -123,6 +123,7 @@ Comprehensive installation guide, BOM (Bill of Materials), and detailed document
 |                 |[FT90M Servo](https://s.click.aliexpress.com/e/_ol1TsBr)                      | 1        | Standard slot will fit FT90M, FT1190M servos. Version for [Emax ES08MA and MDII servos](https://s.click.aliexpress.com/e/_olzGGzx) also available |
 | **Fan** | [TopFan MX7020GBH2](https://central3dprinting.com/products/nevermore-stealthmax-v2-fan?ref=NEVERMORE3D)           | 1        | Will also fit the Sanyo C70 |
 | **HEPA** | [Nevermore H14 HEPA](https://central3dprinting.com/products/nevermore-stealthmax-v2-h14-hepa-filter?ref=NEVERMORE3D)           | 1        | 116mm OD x 42mm H |
+| **Carbon** | [Nevermore Boost](https://central3dprinting.com/products/nevermore-stealthmax-v2-h14-hepa-filter?ref=NEVERMORE3D)           | 1        | Nevermore Carbon, Nevermore Boost, Nevermore Scorch, or any tested quality, non-acid, 4mm activated carbon pellet |
 
 
 ---
