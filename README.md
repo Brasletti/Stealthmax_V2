@@ -118,6 +118,8 @@ Comprehensive installation guide, BOM (Bill of Materials), and detailed document
 |                 | M3 x 10mm BHCS                   | 3        |                                                     |
 |                 | M3 x 16mm SHCS                   | 4        |                                                     |
 | **Electronics** | Same as StealthMax V1            | -        | Excludes buck converter; replaces DC plug+BT with Microfit 5p for USB; adds Pico pins GP12-15 for Neopixel and FT90M servo |
+|                 |[7-bit neopixel hinge display](https://s.click.aliexpress.com/e/_oorL68t)                      | 1        | Optional.                                                    |
+|                 |[1,28" hinge display](https://s.click.aliexpress.com/e/_olAkf37)                      | 1        | Optional. Touch version without touch cables easier to install. Non-touch version needs thinner [awg 28 wires](https://s.click.aliexpress.com/e/_oFYgT37) to fit in the slot |
 
 
 
