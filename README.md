@@ -104,8 +104,8 @@ We've implemented numerous improvements to ensure a smoother user experience and
 Comprehensive installation guide, BOM (Bill of Materials), and detailed documentation for assembly will be provided shortly.
 | Category        | Item                             | Quantity | Notes                                               |
 |-----------------|----------------------------------|----------|-----------------------------------------------------|
-| **Connectors**  | Wago 221-413                     | 2        |                                                     |
-|                 | Wago 221-412                     | 2        |                                                     |
+| **Connectors**  | [Wago 221-413](https://s.click.aliexpress.com/e/_oDV7bC9)                     | 2        |                                                     |
+|                 | [Wago 221-412](https://s.click.aliexpress.com/e/_oDV7bC9)                     | 2        |                                                     |
 |                 | M6 PC4 Bowden connector          | 1–6      | Typically 1; M10 optional at bottom slot only       |
 | **Fasteners**   | M6 x 6mm                         | 2        | Plugs side PC4 M6 Bowden openings                   |
 |                 | 2020 extrusion T-nut             | 2        |                                                     |
