@@ -64,7 +64,7 @@ StealthMax V2 dramatically improves user accessibility and versatility:
 
 ---
 
-## ❄️ **Carbon Cooler (Optional Add-On)**
+## ❄️ **Carbon Cooler (Optional Add-On) [Kit ready: Summer 2025]**
 
 Let's face it—activated carbon filtration becomes less effective as temperature rises, yet we require high chamber temperatures for optimal printing with most advanced filaments. StealthMax V2 is designed with this challenge in mind, supporting an optional **Carbon Cooler module**:
 
@@ -77,7 +77,7 @@ Let's face it—activated carbon filtration becomes less effective as temperatur
 
 ---
 
-## 🌞 **PCO (Photocatalytic Oxidation) Stage (Optional Add-On)**
+## 🌞 **PCO (Photocatalytic Oxidation) Stage (Optional Add-On) [Kit ready: Fall 2025]**
 
 StealthMax V2 comes ready for integration of an advanced **internal photocatalytic oxidation (PCO)** filtration stage:
 
