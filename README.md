@@ -1,9 +1,25 @@
-# StealthMax V2 – The New Filtration Beast!
+# StealthMax V2 [RC1]– The New Filtration Beast!
 ![StealthMax V2](./Printable_Files/Stealthmax_V2.png)
 ## Nevermore StealthMax was already the pinnacle of 3D printing filtration. How could we possibly improve it? Here's how:
 
 ---
 
+
+## 🛡️ **The HEPA Filter**
+
+A significant enhancement in filtration efficiency comes from adopting our new industrial-grade H14 HEPA filter, offering superior performance without compromising airflow. Gone are the days of relying on generic, uncertified robotic vacuum filters!
+
+**Why the upgrade?**  
+The Xiaomi robovac filters used in our V1 model lacked an official HEPA rating, typically indicating below-HEPA (≤H10) performance, casting doubt on their effectiveness in capturing ultra-fine particles (UFPs). Since FDM 3D printers primarily emit UFPs and volatile organic compounds (VOCs), using a filter specifically designed and rated to handle these pollutants efficiently is crucial.
+
+Our new HEPA filter:
+- Is **99.995% efficient** at capturing particulates (**H14 standard**).
+- Outperforms typical robotic vacuum filters by capturing up to **2000 times more particulates** per filtration pass.
+- Specifically excels at capturing ultra-fine particles (UFPs: PM0.01 – PM0.1) emitted during FDM 3D printing—particles that thinner, inferior filters struggle to handle effectively.
+
+**Nevermore3D proudly offers the highest-grade HEPA filtration available for FDM 3D printing. UFPs: YOU SHALL NOT PASS!**
+
+---
 ## 🚀 **The Fan**
 
 With the GPU fan from V1 becoming increasingly rare due to evolving GPU cooler designs, we searched far and wide for a powerful, reliable replacement capable of pulling substantial airflow through dense filtration media. **We found it!**
@@ -11,21 +27,9 @@ With the GPU fan from V1 becoming increasingly rare due to evolving GPU cooler d
 The new **StealthMax V2 fan** delivers **twice the airflow** at the **same noise level**, meaning:
 - Quieter operation at equivalent airflow.
 - Efficient filtration of larger chamber volumes.
+- Has twice the static pressure.
 
-Moreover, the fan is **5 mm slimmer**, making room for even more HEPA surface area. And since it's not an end-of-life (EOL) design, it should remain available for years to come! Also, contrary to any rumours, its certainly not proprietary!
-
----
-
-## 🛡️ **The HEPA Filter**
-
-With our upgraded fan, we can now use a vastly superior, industrial-quality HEPA filter without sacrificing airflow. Gone are the days of cheap, unspecified robovac filters!
-
-Our new HEPA filter:
-- Is **99.995% efficient** at capturing particulates (**H14 standard**).
-- Outperforms typical cheap robovac filters by capturing up to **2000 times more particulates** per filtration pass.
-- Excels specifically at capturing ultra-fine particles (UFPs: PM0.01 – PM0.1) emitted during FDM 3D printing, which thinner, cheaper filters struggle with.
-
-**Nevermore3D proudly offers the highest-grade FDM filtration HEPA available on the market. UFPs: YOU. SHALL. NOT. PASS!**
+Moreover, by being slimmer than its predecessor it makes room for even more HEPA surface area, decreasing the pressure drop and maintaining maximum airflow! And since it's not an end-of-life (EOL) design, it should remain available for years to come! Also, contrary to any rumours, its certainly not proprietary!
 
 ---
 
@@ -40,11 +44,12 @@ While StealthMax V1 had an adjustable exhaust vent for controlling chamber tempe
 
 ## 💡 **Intelligent Signaling**
 
-StealthMax V2 adds smart visual signaling, making it easy to monitor your filter status at a glance:
+StealthMax V2 adds smart visual signaling (pending future software update), making it easy to monitor your filter status at a glance:
 
 - **Neopixel LEDs** indicating filter function status and carbon replacement intervals.
 - LEDs can be installed at the Bowden caps or the main hinge.
 - Optional support for a sleek **1.28" LED display** or **KNOMI 2** mounted at the main hinge for the ultimate monitoring and customization experience (currently limited software support).
+
 
 ---
 
@@ -59,7 +64,7 @@ StealthMax V2 dramatically improves user accessibility and versatility:
 
 ---
 
-## ❄️ **Carbon Cooler (Optional Add-On)**
+## ❄️ **Carbon Cooler (Optional Add-On) [Kit ready: Summer 2025]**
 
 Let's face it—activated carbon filtration becomes less effective as temperature rises, yet we require high chamber temperatures for optimal printing with most advanced filaments. StealthMax V2 is designed with this challenge in mind, supporting an optional **Carbon Cooler module**:
 
@@ -72,7 +77,7 @@ Let's face it—activated carbon filtration becomes less effective as temperatur
 
 ---
 
-## 🌞 **PCO (Photocatalytic Oxidation) Stage (Optional Add-On)**
+## 🌞 **PCO (Photocatalytic Oxidation) Stage (Optional Add-On) [Kit ready: Fall 2025]**
 
 StealthMax V2 comes ready for integration of an advanced **internal photocatalytic oxidation (PCO)** filtration stage:
 
@@ -98,6 +103,29 @@ We've implemented numerous improvements to ensure a smoother user experience and
 
 *(Coming Soon!)*  
 Comprehensive installation guide, BOM (Bill of Materials), and detailed documentation for assembly will be provided shortly.
+| Category        | Item                             | Quantity | Notes                                               |
+|-----------------|----------------------------------|----------|-----------------------------------------------------|
+| **Connectors**  | [Wago 221-413](https://s.click.aliexpress.com/e/_oDV7bC9)                     | 2        |                                                     |
+|                 | [Wago 221-412](https://s.click.aliexpress.com/e/_oDV7bC9)                     | 2        |                                                     |
+|                 | M6 PC4 Bowden connector          | 1–6      | Typically 1; M10 optional at bottom slot only       |
+| **Fasteners**   | M6 x 6mm                         | 2        | Plugs side PC4 M6 Bowden openings                   |
+|                 | 2020 extrusion T-nut             | 2        |                                                     |
+|                 | M3 inserts (L=4 mm, OD=5 mm)     | 42       |                                                     |
+|                 | M2 x 6mm self-tapping screws     | 5        | Pico + servo                                        |
+|                 | M3 x 6mm BHCS                    | 35       | Reduce quantity by 1 if not using intake sensor PCB |
+|                 | M3 x 8mm SHCS                    | 1        | Omit if not using intake sensor sandwich            |
+|                 | M3 x 25mm SHCS                   | 8        |                                                     |
+|                 | M3 x 6mm FHCS                    | 4        | Reduce quantity by 1 if not using spacer for 3mm back panels |
+|                 | M3 x 10mm BHCS                   | 3        |                                                     |
+|                 | M3 x 16mm SHCS                   | 4        |                                                     |
+| **Electronics** | Same as StealthMax V1            | -        | Excludes buck converter; replaces DC plug+BT with Microfit 5p for USB; adds Pico pins GP12-15 for Neopixel and FT90M servo |
+|                 |[7-bit neopixel hinge display](https://s.click.aliexpress.com/e/_oorL68t)                      | 1        | Optional.                                                    |
+|                 |[1,28" hinge display](https://s.click.aliexpress.com/e/_olAkf37)                      | 1        | Optional. Touch version without touch cables easier to install. Non-touch version needs thinner [awg 28 wires](https://s.click.aliexpress.com/e/_oFYgT37) to fit in the slot |
+|                 |[FT90M Servo](https://s.click.aliexpress.com/e/_ol1TsBr)                      | 1        | Standard slot will fit FT90M, FT1190M servos. Version for [Emax ES08MA and MDII servos](https://s.click.aliexpress.com/e/_olzGGzx) also available |
+| **Fan** | [TopFan MX7020GBH2](https://central3dprinting.com/products/nevermore-stealthmax-v2-fan?ref=NEVERMORE3D)           | 1        | Will also fit the Sanyo C70 |
+| **HEPA** | [Nevermore H14 HEPA](https://central3dprinting.com/products/nevermore-stealthmax-v2-h14-hepa-filter?ref=NEVERMORE3D)           | 1        | 116mm OD x 42mm H |
+| **Carbon** | [Nevermore](https://central3dprinting.com/products/nevermore-activated-carbon-for-voc-standard-xl-scorch?ref=NEVERMORE3D)           | 1        | Nevermore Carbon, Nevermore Boost, Nevermore Scorch, or any tested quality, non-acid, 4mm activated carbon pellet. 2L will refill with some to spare. |
+
 
 ---
 
