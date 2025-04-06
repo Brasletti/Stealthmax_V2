@@ -11,7 +11,7 @@ A significant enhancement in filtration efficiency comes from adopting our new i
 
 **Why the upgrade?**  
 The Xiaomi robovac filters used in our V1 model lacked an official HEPA rating, typically indicating below-HEPA (≤H10) performance, casting doubt on their effectiveness in capturing ultra-fine particles (UFPs). Since FDM 3D printers primarily emit UFPs and volatile organic compounds (VOCs), using a filter specifically designed and rated to handle these pollutants efficiently is crucial.
-<BR><BR>Some might be disappointed this is not an off-the-shelf component. While this is what we usually strive for, there are simply no H14 HEPA filters in a suitable size, and its especially hard (impossible?) finding H14 quality filtration at a price point below $12 - please check on amazon or the likes. At (6-) 12 month lifetime, Nevermore H14 is less than a dollar per month of use. We try to bring professional filtration to the home user, without charging a premium for it! 
+<BR><BR>Some might be disappointed this is not an off-the-shelf component. While this is what we usually strive for, there are simply no H14 HEPA filters in a suitable size, and its especially hard (impossible?) finding H14 quality filtration at a price point below $12 - please check on amazon or the likes. At a (6-) 12 month per filter lifetime, Nevermore H14 is less than a dollar per month of use. We try to bring professional filtration to the home user, without charging a premium for it! 
 
 Our new HEPA filter:
 - Is **99.995% efficient** at capturing particulates (**H14 standard**).
