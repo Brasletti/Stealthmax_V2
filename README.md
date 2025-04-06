@@ -16,6 +16,7 @@ Our new HEPA filter:
 - Is **99.995% efficient** at capturing particulates (**H14 standard**).
 - Outperforms typical robotic vacuum filters by capturing up to **2000 times more particulates** per filtration pass.
 - Specifically excels at capturing ultra-fine particles (UFPs: PM0.01 – PM0.1) emitted during FDM 3D printing—particles that thinner, inferior filters struggle to handle effectively.
+- Uses top and bottom sealing foam to force air through the filter and not pass through gaps in the filter unit.
 
 **Nevermore3D proudly offers the highest-grade HEPA filtration available for FDM 3D printing. UFPs: YOU SHALL NOT PASS!**
 
