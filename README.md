@@ -26,7 +26,7 @@ Our new HEPA filter:
 
 With the GPU fan from V1 becoming increasingly rare due to evolving GPU cooler designs, we searched far and wide for a powerful, reliable replacement capable of pulling substantial airflow through dense filtration media. **We found it!**
 
-The new **StealthMax V2 fan** delivers **twice the airflow** at the **same noise level**, meaning:
+The new **StealthMax V2 7020 fan** (MX7020GBH2) delivers **twice the airflow** at the **same noise level**, meaning:
 - Quieter operation at equivalent airflow.
 - Efficient filtration of larger chamber volumes.
 - Has twice the static pressure.
