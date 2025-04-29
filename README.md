@@ -136,7 +136,8 @@ Comprehensive installation guide, BOM (Bill of Materials), and detailed document
 We're dedicated to continuously improving StealthMax V2. Your feedback, testing, and suggestions are invaluable. Connect with us:
 
 - **GitHub Issues:** Report issues or request enhancements directly here on GitHub.
-- **Discord Community:** Join fellow makers and contributors for discussions, troubleshooting, and feature discussions.
+- **[Discord Community](https://discord.gg/RgQP5cWHxj):** Join fellow makers and contributors for discussions, troubleshooting, and feature discussions.
+- **[Check our Print Settings Wiki](https://github.com/nevermore3d/StealthMax/wiki/Print-Settings)** for additional tips and tricks!
 
 ---
 
