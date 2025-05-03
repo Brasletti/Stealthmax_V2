@@ -103,7 +103,7 @@ We've implemented numerous improvements to ensure a smoother user experience and
 
 ## 🚧 **Installation & Documentation**
 
-*(Coming Soon!)*  
+[Central3DPrinting Electronics Installation](https://docs.google.com/presentation/d/e/2PACX-1vQseX6O0ZcSdXpOdnfkClK4V5FH0Ed1FzcuMa7BvOZgEiaAOtqwpyQ51u74DkXTCRRQ-EDv1vXZ-xWn/pub?start=false&loop=false&delayms=3000&slide=id.p)
 Comprehensive installation guide, BOM (Bill of Materials), and detailed documentation for assembly will be provided shortly.
 | Category        | Item                             | Quantity | Notes                                               |
 |-----------------|----------------------------------|----------|-----------------------------------------------------|
