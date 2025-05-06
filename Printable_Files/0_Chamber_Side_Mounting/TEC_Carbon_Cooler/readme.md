@@ -1,7 +1,7 @@
 ## TEC Carbon Cooler
 
 ![StealthMax V2](./Carbon_Cooler.png)
-In development/testing. Check the carbon cooler beta channel on nevermore discord. 
+_In development/testing. Check the carbon cooler beta channel on nevermore discord._ 
 
 Uses Peltier elements to cool the intake air, which increases the filtration ability and lifetime of your activated carbon filtration media, and then reheats the air upon chamber recirculation. Waste heat gets dumped into the chamber, causing a net temperature increasing effect complementing other non-active heating solutions such as bed fans.
 
