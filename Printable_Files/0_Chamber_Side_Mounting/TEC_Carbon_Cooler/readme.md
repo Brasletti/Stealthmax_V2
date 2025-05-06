@@ -3,7 +3,7 @@
 ![StealthMax V2](./Carbon_Cooler.png)
 _In development/testing. Check the carbon cooler beta channel on nevermore discord._ 
 
-Uses Peltier elements to cool the intake air, which increases the filtration ability and lifetime of your activated carbon filtration media, and then reheats the cooled air upon chamber recirculation. Waste heat gets dumped into the chamber, causing a net temperature increasing effect complementing other non-active heating solutions such as bed fans.
+Utilizes Peltier elements to cool the filter intake air, enhancing the filtration efficiency and extending the lifespan of your activated carbon filtration media. The filtered, cooled air is then passed over the hot side of the Peltier element to dissipate heat, simultaneously reheating the air as a beneficial byproduct, before being recirculated into the chamber to sustain a warm environment where needed. Due to the inefficiency of Peltier cooling, more heat than cooling is generated, resulting in waste heat being released into the chamber and causing a net temperature increase.
 
 In combination with the servo exhaust vent and bedfans, the Peltier Carbon Cooler allows for active chamber temperature control from passive/waste heat sources in combination with chamber exhaust ventilation.
 
